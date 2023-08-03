@@ -25,7 +25,6 @@ It's a great feeling to see the final product taking shape. I had to check how t
 together because it is one thing to see them fitting in the CAD software and it's another thing
 entirely to try with physical objects because of the tolerances.
 
-![Dry run, no glue](../)
 <img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230714_203239935.jpg" alt="Dry run, no glue">
 
 Here I had to learn how to apply the mirrored film without scratching it. The plexiglass didn't turn
