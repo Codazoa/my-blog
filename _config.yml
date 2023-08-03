@@ -1,2 +1,5 @@
 author: Codazoa
 theme: minima
+
+minima:
+  skin: dark
