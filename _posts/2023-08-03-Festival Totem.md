@@ -43,6 +43,7 @@ well as apply a generous helping of super glue to the flat edges.
 <img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230715_223314534.jpg" alt="2nd section finished">
 
 After teaching myself how to solder, I got the LED strips cut, soldered, and attached to the base for a final test before all the panels go on.
+They are running through WLED running on an ESP32.
 
 <img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230716_010847862.jpg" alt="Getting the lights in">
 
