@@ -31,6 +31,7 @@ Here I had to learn how to apply the mirrored film without scratching it. The pl
 out as good as I had hoped but for a first try they are acceptable.
 
 ![Applying the mirrored film](../images/rs-PXL_20230715_212753095.jpg) 
+<img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230715_212753095.jpg" alt="Applying mirrored film">
 
 Getting it all glued up. My original idea was to have this point be the base with all the wireing coming out of the bottom.
 
