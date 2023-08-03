@@ -15,36 +15,37 @@ turned out to be a very simple redesign where each end cap was lengthened so the
 would fit just inside the printer's build volume with 5mm to spare on each end. After over 70
 hours of printing I could start final assembly.
 
-![Getting the peices together](../images/rs-PXL_20230715_215124965.jpg)
+<img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230715_215124965.jpg" alt="Getting the pieces together">
 
 Since this project had to be able to run overnight off a battery, I decided to test it out.
 
-![Getting it working off battery](../images/rs-PXL_20230714_205140094.jpg)
+<img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230714_205140094.jpg" alt="Getting it working off battery">
 
 It's a great feeling to see the final product taking shape. I had to check how the pieces would fit
 together because it is one thing to see them fitting in the CAD software and it's another thing
 entirely to try with physical objects because of the tolerances.
 
-![Dry run, no glue](../images/rs-PXL_20230714_203239935.jpg)
+![Dry run, no glue](../)
+<img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230714_203239935.jpg" alt="Dry run, no glue">
 
 Here I had to learn how to apply the mirrored film without scratching it. The plexiglass didn't turn
 out as good as I had hoped but for a first try they are acceptable.
 
-![Applying the mirrored film](../images/rs-PXL_20230715_212753095.jpg) 
-<img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230715_212753095.jpg" alt="Applying mirrored film">
+<img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230715_212753095.jpg" alt="Applying the mirrored film">
 
 Getting it all glued up. My original idea was to have this point be the base with all the wireing coming out of the bottom.
 
-![Finally taking shape](../images/rs-PXL_20230715_223247787.jpg) 
+<img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230715_223247787.jpg" alt="Finally taking shape">
 
 2nd section is holding strong. Each end piece joins with the middle span with a male/female connection. I then fill the female end of the end cap with liquid cement made for plastics as 
 well as apply a generous helping of super glue to the flat edges.
 
-![2nd section finished](../images/rs-PXL_20230715_223314534.jpg) 
+
+<img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230715_223314534.jpg" alt="2nd section finished">
 
 After teaching myself how to solder, I got the LED strips cut, soldered, and attached to the base for a final test before all the panels go on.
 
-![Getting the lights in](../images/rs-PXL_20230716_010847862.jpg)
+<img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230716_010847862.jpg" alt="Getting the lights in">
 
 To be continued...
 
