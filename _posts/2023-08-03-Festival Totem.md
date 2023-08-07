@@ -6,12 +6,12 @@ date: 2023-08-03
 I've been working on this LED tetrahedron on and off for 4 years. After graduating
 I finally had some time to sit down and focus on finishing what I started. The edges
 are custom designed in Fusion360, and after more than a couple redesigns I was able
-to get the peices to print on my Creality Ender3 Pro.
+to get the pieces to print on my Creality Ender3 Pro.
 
 The biggest issue was getting the long pieces to fit on the small build plate of
 the Ender3. Printing standing up would have worked but with each piece taking 7+ hours
 to print and 5 of the first 6 prints failing I had to find a better way. The winning design
-turned out to be a very simple redesign where each end cap was lengthened so the span peices
+turned out to be a very simple redesign where each end cap was lengthened so the span pieces
 would fit just inside the printer's build volume with 5mm to spare on each end. After over 70
 hours of printing I could start final assembly.
 
@@ -32,7 +32,7 @@ out as good as I had hoped but for a first try they are acceptable.
 
 ![Applying the mirrored film](https://i.imgur.com/QCdTUld.jpg)
 
-Getting it all glued up. My original idea was to have this point be the base with all the wireing coming out of the bottom.
+Getting it all glued up. My original idea was to have this point be the base with all the wiring coming out of the bottom.
 
 ![Finally taking shape](https://i.imgur.com/D0zU6sU.jpg)
 
