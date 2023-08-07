@@ -48,8 +48,7 @@ They are running through [WLED](https://kno.wled.ge/) running on an ESP32.
 
 The final product!
 
-
-<iframe src="https://i.imgur.com/UhtOqfs.mp4" width="512" height="912"  frameborder="0" allowfullscreen></iframe>
+<iframe width="512" height="912" src="https://www.youtube.com/embed/Milb5EGuvnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 It turned out much better than I expected as a first attempt and I learned a lot along the way. In this case there is no way to open the tetrahedron to repair LEDs or reattach the LED strips which definitely needs to be addressed if I ever decide to build another similar piece. I did learn a lot about soldering for this project and by the end my wire connections actually looked pretty cohesive.
 
