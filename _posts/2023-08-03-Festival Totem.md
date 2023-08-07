@@ -15,39 +15,42 @@ turned out to be a very simple redesign where each end cap was lengthened so the
 would fit just inside the printer's build volume with 5mm to spare on each end. After over 70
 hours of printing I could start final assembly.
 
-<img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230715_215124965.jpg" alt="Getting the pieces together">
+![Getting the pieces together](https://i.imgur.com/mZQIkXF.jpg)
 
 Since this project had to be able to run overnight off a battery, I decided to test it out.
 
-<img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230714_205140094.jpg" alt="Getting it working off battery">
+![Getting it working off battery](https://i.imgur.com/pz2qPAi.jpg)
 
 It's a great feeling to see the final product taking shape. I had to check how the pieces would fit
 together because it is one thing to see them fitting in the CAD software and it's another thing
 entirely to try with physical objects because of the tolerances.
 
-<img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230714_203239935.jpg" alt="Dry run, no glue">
+![Dry run, no glue](https://i.imgur.com/YoHiLOf.jpg)
 
 Here I had to learn how to apply the mirrored film without scratching it. The plexiglass didn't turn
 out as good as I had hoped but for a first try they are acceptable.
 
-<img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230715_212753095.jpg" alt="Applying the mirrored film">
+![Applying the mirrored film](https://i.imgur.com/QCdTUld.jpg)
 
 Getting it all glued up. My original idea was to have this point be the base with all the wireing coming out of the bottom.
 
-<img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230715_223247787.jpg" alt="Finally taking shape">
+![Finally taking shape](https://i.imgur.com/D0zU6sU.jpg)
 
 2nd section is holding strong. Each end piece joins with the middle span with a male/female connection. I then fill the female end of the end cap with liquid cement made for plastics as 
 well as apply a generous helping of super glue to the flat edges.
 
-
-<img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230715_223314534.jpg" alt="2nd section finished">
+![2nd section finished](https://i.imgur.com/D0OplHV.jpg)
 
 After teaching myself how to solder, I got the LED strips cut, soldered, and attached to the base for a final test before all the panels go on.
-They are running through WLED running on an ESP32.
+They are running through [WLED](https://kno.wled.ge/) running on an ESP32.
 
-<img src="{{site.baseurl | prepend: site.url}}images/rs-PXL_20230716_010847862.jpg" alt="Getting the lights in">
+![Getting the lights in](https://i.imgur.com/wxZmaBv.jpg)
 
-To be continued...
+The final product!
 
-(the project is done but I unfortunately did not get many pictures of it working before
-it started falling apart from high heat in my tent at a music festival)
+
+<iframe src="https://i.imgur.com/UhtOqfs.mp4" width="512" height="912"  frameborder="0" allowfullscreen></iframe>
+
+It turned out much better than I expected as a first attempt and I learned a lot along the way. In this case there is no way to open the tetrahedron to repair LEDs or reattach the LED strips which definitely needs to be addressed if I ever decide to build another similar piece. I did learn a lot about soldering for this project and by the end my wire connections actually looked pretty cohesive.
+
+Next year my plan is a much simpler totem still utilizing WLED but minimal use of custom designed and printed parts.

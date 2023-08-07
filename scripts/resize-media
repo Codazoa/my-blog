@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# A script for resizing images and converting videos before posting them to the blog
+for file in *.{jpg,mp4}; do
+  if [[ ! "$file" =~ ^rs- ]]; then
+    if [[ "$file" =~ \.jpg$ ]]; then
+      convert "$file" -resize 512x512 "rs-$file"
+      rm "$file"
+    elif [[ "$file" =~ \.mp4$ ]]; then
+      ffmpeg -i "$file" -vf "fps=20,scale=512:-1:flags=lanczos" "rs-$file"
+      rm "$file"
+    fi
+  fi
+done
